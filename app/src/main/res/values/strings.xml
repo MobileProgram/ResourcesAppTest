@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ResourcesAppTest</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="content_dashboard">This is dashboard fragment</string>
+    <string name="content_notifications">This is notifications fragment</string>
+    <string name="content_home">This is home fragment</string>
+</resources>
