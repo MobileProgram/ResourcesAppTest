@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Thử nghiệm ứng dụng Resources</string>
+    <string name="title_home">Trang chủ</string>
+    <string name="title_dashboard">Điều khiển</string>
+    <string name="title_notifications">Thông báo</string>
+    <string name="content_dashboard">Đây là Dashboard Fragment</string>
+    <string name="content_notifications">Đây là Notifications Fragment</string>
+    <string name="content_home">Đây là Home Fragment</string>
+</resources>
